@@ -5,7 +5,7 @@
         {{--? White solo es modo oscuro--}}
         <h1 class="text-white mb-4">Categorias</h1>
         <a href="{{route('categories.create')}}" class="text-white bg-blue-500 p-2 rounded-lg">
-        Agregar Categoría
+        Añadir Registro
         </a>
 
     </div>
